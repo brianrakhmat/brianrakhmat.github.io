@@ -40,3 +40,5 @@ fields:
       format: markdown
   label: Text
   hidden: false
+pages:
+- _posts/test3.md
