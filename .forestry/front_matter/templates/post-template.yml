@@ -30,3 +30,5 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
+pages:
+- _posts/test-2.md
