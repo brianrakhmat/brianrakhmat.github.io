@@ -40,5 +40,3 @@ fields:
       format: markdown
   label: Text
   hidden: false
-pages:
-- _posts/2021-12-04-test-2.md
