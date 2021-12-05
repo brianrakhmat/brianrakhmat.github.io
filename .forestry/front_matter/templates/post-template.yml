@@ -30,3 +30,5 @@ fields:
 - type: textarea
   name: excerpt
   label: excerpt
+pages:
+- _posts/review-new-livin-by-mandiri.md
