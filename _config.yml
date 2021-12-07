@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Brian Rakhmat Aji"
 title_separator          : "-"
 name                     : "Brian Rakhmat Aji"
-description              : "Suka dengan Teknologi"
+description              : "-"
 url                      : "https://brianrakhmat.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Brian Rakhmat Aji"
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Suka Sama Teknologi"
+  bio              : "-"
   location         : "Jakarta, Indonesia"
-  email            : "brianetlab@gmail.com"
+  email            : "-"
   uri              :
   bitbucket        :
   codepen          :
