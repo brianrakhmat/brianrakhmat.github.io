@@ -13,8 +13,6 @@ Website: [https://brianrakhmat.github.io](https://brianrakhmat.github.io)
 
 Linkedin: [https://linkedin.com/in/brianrakhmat](https://linkedin.com/in/brianrakhmat)
 
-Email: brianetlab@gmail.com
-
 ## RESEARCH INTEREST
 
 Big Data, Cloud Computing, Machine Learning
