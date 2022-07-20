@@ -9,14 +9,6 @@ layout: single
 
 ## PERSONAL INFORMATION
 
-Place, Date of Birth : Cirebon, August 12th, 1997
-
-Gender : Male
-
-Facebook: facebook.com/brianrakhmat
-
-Twitter: @brianrakhmat
-
 Website: [https://brianrakhmat.github.io](https://brianrakhmat.github.io)
 
 Linkedin: [https://linkedin.com/in/brianrakhmat](https://linkedin.com/in/brianrakhmat)
