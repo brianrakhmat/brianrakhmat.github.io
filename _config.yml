@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 locale                   : "en"
 title                    : "Brian Rakhmat Aji"
 title_separator          : "-"
-name                     : "Brian Rakhmat Aji"
+name                     : "Brianrakhmataji.com"
 description              : "-"
 url                      : "https://brianrakhmat.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Brian Rakhmat Aji"
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "-"
+  bio              : "Solution Architect at Bank Mandiri"
   location         : "Jakarta, Indonesia"
-  email            : "-"
+  email            : "myemail@brianrakhmataji.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        : "brianrakhmat"
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "brianrakhmat" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
