@@ -7,9 +7,10 @@ categories:
 # - GNOME
 # - Linux
 layout: single
+
 header:
-  image: "http://res.cloudinary.com/dr15yjl8w/image/upload/v1700994837/public/dnfvm7sz5hrltienqtvn.png"
-  og_image: "http://res.cloudinary.com/dr15yjl8w/image/upload/v1700994837/public/dnfvm7sz5hrltienqtvn.png"
+  image: "uploads/1142d994c98e4b1aad39a8a9987a77f8.png"
+  og_image: "uploads/1142d994c98e4b1aad39a8a9987a77f8.png"
   # caption: 'Photo Credit: Kartupos.co.id'
 excerpt: Device Farm adalah sebuah service untuk melakukan pengujian Aplikasi menggunakan Real Device, biasanya hal ini dilakukan pada aplikasi yang berbasis mobile Android dan iOS.
 
