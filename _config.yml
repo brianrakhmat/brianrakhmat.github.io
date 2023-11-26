@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 
 # Site Settings
 locale                   : "en"
-title                    : "Brianrakhmataji.com"
+title                    : "Brian Rakhmat Aji"
 title_separator          : "-"
-name                     : "Brianrakhmataji.com"
+name                     : "Brian Rakhmat Aji"
 description              : "-"
 url                      : "https://brianrakhmat.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Solution Architect at Bank Mandiri"
   location         : "Jakarta, Indonesia"
-  email            : "myemail@brianrakhmataji.com"
+  email            : "brian@brianrakhmat.id"
   uri              :
   bitbucket        :
   codepen          :

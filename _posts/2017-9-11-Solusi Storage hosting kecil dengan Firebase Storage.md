@@ -127,7 +127,7 @@ Ganti *write: if request.auth != null;* menjadi *write: if true;* ini ditujukan 
         <footer class="page-footer">   
             <div class="footer-copyright">
                 <div class="container">
-                © 2017 Brianrakhmataji.com
+                © 2017 Brianrakhmat.id
                 </div>
             </div>
       </footer>
