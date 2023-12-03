@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 
 # Site Settings
 locale                   : "en"
-title                    : "Brian Rakhmat Aji"
+title                    : "Blog Brian Rakhmat Aji"
 title_separator          : "-"
 name                     : "Brian Rakhmat Aji"
 description              : "-"
@@ -81,11 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brian Rakhmat Aji"
+  name             : "Blog by Brian Rakhmat Aji"
   avatar           : "/assets/images/bio.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Solution Architect at Bank Mandiri"
   location         : "Jakarta, Indonesia"
-  email            : "brian@brianrakhmat.id"
+  email            : "brian@brianrakhmat.my.id"
   uri              :
   bitbucket        :
   codepen          :
