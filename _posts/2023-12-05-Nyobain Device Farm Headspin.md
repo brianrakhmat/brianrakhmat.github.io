@@ -22,6 +22,9 @@ header:
 excerpt: Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll.
 
 ---
+
+![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701754147/public/nu54hcb6lkiyyesxe0zk.png)
+
 ## **Overview Headspin**
 
 Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll yang dapat di implementasikan di Cloud dan on-premise, sehingga cocok untuk penggunaan bagi company yang memilki regulasi tertentu yang mengharuskan data dan aplikasi hanya boleh di akses di Data Center.
