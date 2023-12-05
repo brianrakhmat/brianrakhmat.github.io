@@ -27,7 +27,7 @@ excerpt: Zebrunner adalah sebuah platform Device Farm yang menyediakan solusi un
 
 ![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701769924/public/av1r4uznlzku1oaz7thb.png)
 
-## **Overview Headspin**
+## **Overview Zebrunner**
 
 Zebrunner adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS, berbasis engine OpenSTF DeviceFarmer sebuah project open source.
 
