@@ -26,7 +26,9 @@ excerpt: Headspin adalah sebuah platform Device Farm yang menyediakan solusi unt
 
 Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll yang dapat di implementasikan di Cloud dan on-premise, sehingga cocok untuk penggunaan private companies.
 
-Untuk implementasi On-Premise mereka provide Appliance Box yang didalamnya sudah include dengan Mac-Mini dan software nya sehingga tinggal plugin Mobile Device dan Connect ke Network.
+Untuk implementasi On-Premise mereka provide Appliance Box yang didalamnya sudah include dengan Mac Mini dan software nya sehingga tinggal plugin Mobile Device dan Connect ke Network.
+
+Headspin juga kompatible dengan Katalon sehingga jika sebelumnya kamu sudah memeliki test script di Katalon tinggal mengintegrasikan Appium Capabilites ke link url Headspin
 
 
 ![Image](https://api-dev.headspin.io/v0/private/onprem/pbox-rack-installation/overview-perspective.png)
