@@ -18,7 +18,7 @@ layout: single
 header:
   image: "uploads/Headspin-image.png"
   og_image: "uploads/Headspin-image.png"
-  # caption: 'Photo Credit: Kartupos.co.id'
+  caption: 'Photo Credit: Headspin.io'
 excerpt: Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll.
 
 ---
