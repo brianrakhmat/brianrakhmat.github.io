@@ -16,15 +16,15 @@ tags:
 layout: single
 
 header:
-  image: "uploads/Headspin-image.png"
-  og_image: "uploads/Headspin-image.png"
-  caption: 'Photo Credit: Headspin.io'
+  image: "uploads/d09fa9eab7f64344a533f6ebf584ab37.png"
+  og_image: "uploads/d09fa9eab7f64344a533f6ebf584ab37.png"
+  # caption: 'Photo Credit: Headspin.io'
 excerpt: Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll.
 
 ---
 ## **Overview Headspin**
 
-Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll yang dapat di implementasikan di Cloud dan on-premise, sehingga cocok untuk penggunaan private companies.
+Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll yang dapat di implementasikan di Cloud dan on-premise, sehingga cocok untuk penggunaan bagi company yang memilki regulasi tertentu yang mengharuskan data dan aplikasi hanya boleh di akses di Data Center.
 
 Untuk implementasi On-Premise mereka provide Appliance Box yang didalamnya sudah include dengan Mac Mini dan software nya sehingga tinggal plugin Mobile Device dan Connect ke Network.
 
