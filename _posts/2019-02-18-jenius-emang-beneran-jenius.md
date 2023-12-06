@@ -8,7 +8,7 @@ tags:
 - BTPN
 - Jenius Visa
 header:
-  image: "/uploads/DSCF0485-1800x750.JPG"
+  # image: "/uploads/DSCF0485-1800x750.JPG"
   og_image: "/uploads/DSCF0485-1800x750.JPG"
   caption: 'Photo Credit: Kartupos.co.id'
 excerpt: Pada artikel ini saya akan bahas pengalaman menggunakan Jenius sebagai alat

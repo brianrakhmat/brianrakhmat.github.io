@@ -8,7 +8,7 @@ tags:
 - Jenius
 - Domain .XYZ
 header:
-  image: "/uploads/namecheap-add-a-record-1.png"
+  # image: "/uploads/namecheap-add-a-record-1.png"
   og_image: "/uploads/namecheap-add-a-record-1.png"
   caption: 'Photo credit: kinsta.com'
 excerpt: Oke guys kali ini saya akan review Domain Namecheap ini, sebelumnya saya

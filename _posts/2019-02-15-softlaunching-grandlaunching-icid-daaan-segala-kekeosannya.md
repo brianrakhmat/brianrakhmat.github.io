@@ -8,7 +8,7 @@ tags:
 - Grandlaunching
 - ICID
 header:
-  image: "/uploads/IMG_8631.JPG"
+  # image: "/uploads/IMG_8631.JPG"
   og_image: "/uploads/IMG_8631.JPG"
   caption: 'Photo credit: ICID Documentation 2018'
 excerpt: Pada hari ini saya akan share pengalamanku ketika salah satu orang yang mau
