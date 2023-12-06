@@ -36,7 +36,18 @@
 
       {% if post.link %}
 
-        {% if post.header.image %}
+        <a href="{{ post.url | absolute_url }}" rel="permalink">
+          {% if post.header.image %}
+            <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
+          {% endif %}
+        </a>
+        <br>
+        <br>
+        <a href="{{ post.url | absolute_url }}" rel="permalink"></a>
+          {{ title }}
+        </a>
+
+        <!-- {% if post.header.image %}
           <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
         {% endif %}
 
@@ -45,7 +56,7 @@
         <a href="{{ post.url | absolute_url }}" rel="permalink">
           <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
           <span class="sr-only">Permalink</span>
-        </a>
+        </a> -->
       {% else %}
 
         <a href="{{ post.url | absolute_url }}" rel="permalink">
@@ -53,6 +64,7 @@
             <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
           {% endif %}
         </a>
+        <br>
         <br>
         <a href="{{ post.url | absolute_url }}" rel="permalink"></a>
           {{ title }}
