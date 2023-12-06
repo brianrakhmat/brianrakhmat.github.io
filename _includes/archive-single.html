@@ -48,13 +48,14 @@
         </a>
       {% else %}
 
-        {% if post.header.image %}
-          <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
-        {% endif %}
-
         <a href="{{ post.url | absolute_url }}" rel="permalink">
+          {% if post.header.image %}
+            <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
+          {% endif %}
+        </a>
+        <br>
+        <a href="{{ post.url | absolute_url }}" rel="permalink"></a>
           {{ title }}
-          
         </a>
       {% endif %}
 
