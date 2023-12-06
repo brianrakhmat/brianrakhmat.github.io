@@ -36,7 +36,6 @@
 
       {% if post.link %}
 
-        
         {% if post.header.image %}
           <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
         {% endif %}
@@ -48,11 +47,14 @@
           <span class="sr-only">Permalink</span>
         </a>
       {% else %}
+
+        {% if post.header.image %}
+          <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
+        {% endif %}
+
         <a href="{{ post.url | absolute_url }}" rel="permalink">
           {{ title }}
-          {% if post.header.image %}
-            <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
-          {% endif %}
+          
         </a>
       {% endif %}
 
