@@ -37,8 +37,8 @@
       {% if post.link %}
 
         <a href="{{ post.url | absolute_url }}" rel="permalink">
-          {% if post.header.og_image %}
-            <img src="{{ post.header.og_image | absolute_url }}" alt="{{ title }}">
+          {% if post.header.image %}
+            <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
           {% endif %}
         </a>
         <br>
@@ -47,8 +47,8 @@
           {{ title }}
         </a>
 
-        <!-- {% if post.header.og_image %}
-          <img src="{{ post.header.og_image | absolute_url }}" alt="{{ title }}">
+        <!-- {% if post.header.image %}
+          <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
         {% endif %}
 
         <a href="{{ post.link }}">{{ title }}</a>
@@ -61,8 +61,8 @@
       {% else %}
 
         <a href="{{ post.url | absolute_url }}" rel="permalink">
-          {% if post.header.og_image %}
-            <img src="{{ post.header.og_image | absolute_url }}" alt="{{ title }}">
+          {% if post.header.image %}
+            <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
           {% endif %}
         </a>
         <br>

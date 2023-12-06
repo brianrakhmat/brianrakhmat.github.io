@@ -10,8 +10,8 @@ tags:
 - Tumbler
 - Medium
 header:
-  # image: "/uploads/Screenshot_10.jpg"
-  og_image: "/uploads/Screenshot_10.jpg"
+  image: "/uploads/Screenshot_10.jpg"
+  # og_image: "/uploads/Screenshot_10.jpg"
   caption: 'Photo credit: https://pages.github.com/'
 excerpt: Bagi yang senang menulis atau sekedar mengisi waktu kegabutan atau suka berbagi
   pengalaman lewat tulisan tentunya sudah tidak asing dengan platform menulis seperti
