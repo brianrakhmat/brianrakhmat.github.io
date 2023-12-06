@@ -24,11 +24,30 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      <!-- {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+      {% endif %} -->
+
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a>
+        {% if post.header.image %}
+          <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
+        {% endif %}
+        <a href="{{ post.url | absolute_url }}" rel="permalink">
+          <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
+          <span class="sr-only">Permalink</span>
+        </a>
+      {% else %}
+        <a href="{{ post.url | absolute_url }}" rel="permalink">
+          {{ title }}
+          {% if post.header.image %}
+            <img src="{{ post.header.image | absolute_url }}" alt="{{ title }}">
+          {% endif %}
+        </a>
       {% endif %}
+
     </h2>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
