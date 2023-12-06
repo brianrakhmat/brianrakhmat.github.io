@@ -16,6 +16,7 @@ layout: default
       {% include breadcrumbs.html %}
     {% endunless %}
   {% endif %}
+  <br>
 
   <article class="page" itemscope itemtype="http://schema.org/Blog">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
