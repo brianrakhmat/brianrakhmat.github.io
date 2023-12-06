@@ -16,7 +16,7 @@ tags:
 layout: single
 
 header:
-  # image: "uploads/d09fa9eab7f64344a533f6ebf584ab37.png"
+  image: "uploads/d09fa9eab7f64344a533f6ebf584ab37.png"
   og_image: "uploads/d09fa9eab7f64344a533f6ebf584ab37.png"
   # caption: 'Photo Credit: Headspin.io'
 excerpt: Headspin adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS dan platform lain seperti Smart TV, Smart Watch dll.

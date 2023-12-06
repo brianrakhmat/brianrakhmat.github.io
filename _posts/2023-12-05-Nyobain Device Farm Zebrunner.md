@@ -18,7 +18,7 @@ tags:
 layout: single
 
 header:
-  # image: "uploads/e23e162c4fa34e02bda6ee30a0d5fb09.png"
+  image: "uploads/e23e162c4fa34e02bda6ee30a0d5fb09.png"
   og_image: "uploads/e23e162c4fa34e02bda6ee30a0d5fb09.png"
   # caption: 'Photo Credit: Headspin.io'
 excerpt: Zebrunner adalah sebuah platform Device Farm yang menyediakan solusi untuk Automation / Manual Testing pada Real Device maupun Virtual Device baik aplikasi Android maupun iOS, berbasis engine OpenSTF sebuah project open source.

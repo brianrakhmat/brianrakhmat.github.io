@@ -4,7 +4,7 @@ date: 2019-02-15 12:21:16 +0000
 categories:
 - programming
 header:
-  # image: "/uploads/1_5pK36MBB4okSPNmnFpmk_Q.png"
+  image: "/uploads/1_5pK36MBB4okSPNmnFpmk_Q.png"
   og_image: "/uploads/1_5pK36MBB4okSPNmnFpmk_Q.png"
   caption: 'Photo credit: Istimewa'
 excerpt: Pada kesempatan kali ini saya akan berbagi tutorial membuat aplikasi seperti

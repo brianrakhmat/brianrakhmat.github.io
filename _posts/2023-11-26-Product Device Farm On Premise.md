@@ -9,7 +9,7 @@ categories:
 layout: single
 
 header:
-  # image: "uploads/1142d994c98e4b1aad39a8a9987a77f8.png"
+  image: "uploads/1142d994c98e4b1aad39a8a9987a77f8.png"
   og_image: "uploads/1142d994c98e4b1aad39a8a9987a77f8.png"
   # caption: 'Photo Credit: Kartupos.co.id'
 excerpt: Device Farm adalah sebuah service untuk melakukan pengujian Aplikasi menggunakan Real Device, biasanya hal ini dilakukan pada aplikasi yang berbasis mobile Android dan iOS.
