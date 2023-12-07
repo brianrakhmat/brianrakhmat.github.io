@@ -5,6 +5,8 @@ categories:
 - blog
 tags:
 - Device Farm
+- Device Farm Visium Farm
+- Device Farm Visium
 - Visium Farm
 - Automation Test
 - Appium
