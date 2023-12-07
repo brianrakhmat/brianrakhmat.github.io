@@ -33,7 +33,7 @@ Untuk implementasi Visium Farm di On-Premise perlu menyiapkan beberapa server fi
 
 Visium Farm juga compatible dengan Katalon sehingga jika sebelumnya kamu sudah memiliki ratusan test script di Katalon tinggal mengintegrasikan Appium Capabilites ke link url Visium Farm, Selain Katalon Visium juga memiliki product serupa untuk menuliskan Test Script seperti di Katalon namun dengan solusi yang terpisah dari Device Farm nya itu sendiri.
 
-Visium Farm juga compatible dengan Jekins atau product CI/CD lainnya karena terdapat API yang dapat melakukan Installasi APK / IPA ke seluruh Device, sehingga proccess installasi apk menjadi mudah, dan ya tentu saja dapat menjalankan automation testing dari Jeknins juga.
+Visium Farm juga compatible dengan Jenkins atau product CI/CD lainnya karena terdapat API yang dapat melakukan Installasi APK / IPA ke seluruh Device, sehingga proccess installasi APL menjadi mudah, dan ya tentu saja dapat menjalankan automation testing dari Jenkins juga.
 
 ## **Architecture Visium Farm**
 
