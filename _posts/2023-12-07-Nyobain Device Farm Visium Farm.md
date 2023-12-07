@@ -91,7 +91,7 @@ Di halaman ini kamu bisa menginstall APK / IPA yang sebelumnya kamu sudah upload
 
 **5. Menu Report**
 
-Di halaman ini kamu bisa menginstall APK / IPA yang sebelumnya kamu sudah upload ke Visium Library, untuk selanjutnya di install ke seluruh Device HP baik Android / iOS.
+DI halaan ini kamu bisa melihat report penggunaan device, session, dll (bukan report testing pass / fail ya!)
 
 ![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701937280/public/n9noh0eycditbfiztavv.png)
 ![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701937298/public/gvqzdifhgdgj1dbec2sj.png)
