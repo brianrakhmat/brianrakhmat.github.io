@@ -57,7 +57,7 @@ Feature yang ditawarkan Visium Farm:
 - Share Link Device
 - dll
 
-Selain fitur basic yang disebutkan diatas, Visium Farm juga memiliki fiture unik yang tidak dapat ditemukan di product lainnya yaiut "Share Link", sehingga 1 device bisa di share ke tester / developer lainnya, hal ini memudahkan untuk memantau untuk troubleshooting/ debugging bareng-bareng.
+Selain fitur basic yang disebutkan diatas, Visium Farm juga memiliki feature unik yang tidak dapat ditemukan di product lainnya yaitu "Share Link", sehingga 1 device bisa di share ke tester / developer lainnya, hal ini memudahkan untuk memantau untuk troubleshooting/ debugging bareng-bareng.
 
 
 Berikut beberapa screenshot dari Visium Farm:
