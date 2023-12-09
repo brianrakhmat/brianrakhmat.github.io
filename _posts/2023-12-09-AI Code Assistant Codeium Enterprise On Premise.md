@@ -20,7 +20,7 @@ excerpt: Codeium adalah sebuah AI Coding Assistant yang dapat membantu kamu dala
 
 ## **Overview Codeium**
 
-Pada artkiel sebelumnya kita sudah membahas tools-tools AI apa saja yang dapat membantu kamu dalam melakukan coding, pada artikel kali ini saya akan lebih deep membahas satu tools AI yang namanya "Codeium", tools ini dapat implementasikan On Premise sehingga bisa lebih private, sebelum lebih lanjut ke hal teknis nya mari kita bahas dulu apa itu Codeium.
+Pada artikel sebelumnya kita sudah membahas tools-tools AI apa saja yang dapat membantu kamu dalam melakukan coding, pada artikel kali ini saya akan lebih deep membahas satu tools AI yang namanya "Codeium", tools ini dapat implementasikan On Premise sehingga bisa lebih private, sebelum lebih lanjut ke hal teknis nya mari kita bahas dulu apa itu Codeium.
 
 Codeium adalah sebuah AI Coding Assistant yang dapat membantu kamu dalam  code generation, code completion, code refactoring, create unit test, code comment generation (explanation), dan lainnya.
 
@@ -38,6 +38,7 @@ Untuk secara penggunaan di IDE mereka ada 2 versi plugin / extension, ada versi 
 5. Personalization will happen for Autocomplete, Chat, and any future capabilities. 
 
 **Usage Analytics:**
+
 Provide custom dashboards to both the enterprise and individual developers on Codeium use and related analytics, such as time saved.
 
 ## **Architecture Codeium Enterprise**
@@ -51,7 +52,7 @@ Provide custom dashboards to both the enterprise and individual developers on Co
 3. Generate a DNS record that points from an internal address to the API server IP address, so that users can access Codeium within private network.
 4. Installation (~2-4hrs), Configuration (~10min for base, ~3hrs for personalization)
 
-***Codeium Execution (Blue)**
+**Codeium Execution (Blue)**
 1. A user install the Codeium extension on any  IDEs, and setting the FQDN API server address . The extension will collect the context required by Codeium and send it with some user metadata to the API server.
 2. The API server first verifies the user is authenticated via the PostgresDB.
 3. The API server sends the context to a model controller layer.
