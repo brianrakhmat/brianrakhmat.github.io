@@ -3,9 +3,10 @@ title: Cerita Perjalanan Masuk ke ODP IT Bank Mandiri
 # date: 2017-09-12 13:50:39 +0000
 categories:
 - life
-# tags:
-# - GNOME
-# - Linux
+tags:
+- ODP IT Bank Mandiri
+- Bank Mandiri
+- ODP
 layout: single
 
 header:
