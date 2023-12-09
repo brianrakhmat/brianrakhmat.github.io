@@ -23,7 +23,7 @@ excerpt: Headspin adalah sebuah platform Device Farm yang menyediakan solusi unt
 
 ---
 
-![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701754147/public/nu54hcb6lkiyyesxe0zk.png)
+![Image](https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702098032/apuvm0lz5jjufqjrliey.png)
 
 ## **Overview Headspin**
 
@@ -58,10 +58,10 @@ Berikut beberapa screenshot dari Headspin:
 
 Di menu ini kita dapat melihat Device apa saja yang terkoneksi di Headspin, termasuk dapat melakukan Manual Testing, Automation configuration dan Lihat Koneksi untuk Remote Debugging.
 
-![Image](https://res.cloudinary.com/dr15yjl8w/image/upload/v1701751231/public/i7g6rbkwuedkxwcqglnq.png)
-![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701751407/public/eitzlysvcafz8uxbfhim.png)
-![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701751577/public/oxwatwjl6adzjadsw6xu.png)
-![Image](http://res.cloudinary.com/dr15yjl8w/image/upload/v1701751641/public/lzowb3tl0ixoml6qldtd.png)
+![Image](https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702098107/osytkx41cf85lrifchkm.png)
+![Image](https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702098187/buxbfxbfimhhiytp8rky.png)
+![Image](http://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702098187/public/lmkmxalnfoa56cpf9jrx.png)
+![Image](http://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702098187/public/lrrvz3k6g4ozbl60sfvp.png)
 
 **2. Menu Performance**
 
