@@ -39,6 +39,6 @@ Masyarakat sangat antusian mengikuti sesi demi sesi. “Mereka memang ingin seka
 
 Agar hasil dari workshop simulasi pembuatan VCO ini bisa berkembang dan memiliki pangsa pasar yang jelas, para mahasiswa UIN Sunan Kalijaga menghadirkan juga narasumber dari Dinas Koperasi Kulon Progo untuk memberikan materi mengenai pemasaran, perolehan Perijinan P-IRT dan Jual Beli – Online. Masyarakat juga dibekali keahlian menjual secara mandiri, seperti di Bukalapak, Tokopedia, Shopee, dan e-commerce lainnya. Dinas Koperasi Kulon Progo memberikan patokan harga 1 botol VCO Rp. 150.000. Dengan begitu diharapkan dapat membantu perekonomian masyarakat di Desa Hargowilis, tambah Brian (Weni)
 
-Artikel juga ini dimuat di
+Artikel ini juga dimuat di:
 - https://www.uin-suka.ac.id/id/liputan/detail/107/blog-post.html
 - https://saintek.uin-suka.ac.id/index.php/id/berita/detail/149/mahasiswa-kkn-uin-sunan-kalijaga-yogyakarta-menggelar-workshop

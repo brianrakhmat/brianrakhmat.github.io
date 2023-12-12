@@ -32,7 +32,7 @@ Sasaran dari Pengobatan Gratis ini adalah Ibu-Ibu dan lansia yang tergabung dala
 
 Pengobatan meliputi pengecekan Berat Badan, Tensi, dan keluhan yang dialami oleh pasien itu sendiri, dengan dibantu Petugas Puskesmas Kokap untuk membantu pengecekan pasien, tersedia 40 macam jenis obat yang disediakan untuk melayani masyarakat Tegiri 1.(Brian-Khabib/humas)
 
-Artikel ini juga dimuat:
+Artikel ini juga dimuat di:
 - https://uin-suka.ac.id/id/liputan/detail/99/kkn-uin-sunan-kalijaga-menggelar-pengobatan-gratis-di-masyarakat-tegiri
 
 - https://timesindonesia.co.id/peristiwa-daerah/178526/pengobatan-gratis-di-kkn-mahasiswa-uin-suka-begini-suasananya
