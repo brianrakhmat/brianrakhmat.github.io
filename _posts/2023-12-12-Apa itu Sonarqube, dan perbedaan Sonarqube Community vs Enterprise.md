@@ -43,12 +43,13 @@ Nah sudah cukup mengerti kaan apa itu Sonarqube dan fitur-fiturnya, mari kita ba
 Cara scan sonarqube sebetulnya mudah, kamu bisa import project dari SCM (Source Code Management) seperti Github / Bitbucket / Gitlab / dll, dan pilih scanner nya tergantung bahasa pemrograman yang digunakan, seperti Maven, Gradle, .NET, atau others (JS, TS, GO, PHP, Python, dll).
 
 **Contoh Mavem**
-
+```
   mvn clean verify sonar:sonar \
     -Dsonar.projectKey=<Your Project Key> \
     -Dsonar.projectName='<Your Project Name>' \
     -Dsonar.host.url=<Your Domain URL Sonarqube>:<port> \
     -Dsonar.token=<Your Token>
+```
 
 Nah script diatas adalah contoh untuk scan sonarqube dengan Maven Spring boot, cara penggunannya mudah tinggal jalankan script diatas di terminal Intellij IDEA dan akan langsung jalan.
 
