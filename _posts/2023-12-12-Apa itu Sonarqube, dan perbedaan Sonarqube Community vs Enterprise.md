@@ -42,7 +42,7 @@ Nah sudah cukup mengerti kaan apa itu Sonarqube dan fitur-fiturnya, mari kita ba
 
 Cara scan sonarqube sebetulnya mudah, kamu bisa import project dari SCM (Source Code Management) seperti Github / Bitbucket / Gitlab / dll, dan pilih scanner nya tergantung bahasa pemrograman yang digunakan, seperti Maven, Gradle, .NET, atau others (JS, TS, GO, PHP, Python, dll).
 
-**Contoh Mavem**
+**Contoh Maven**
 ```
   mvn clean verify sonar:sonar \
     -Dsonar.projectKey=<Your Project Key> \
