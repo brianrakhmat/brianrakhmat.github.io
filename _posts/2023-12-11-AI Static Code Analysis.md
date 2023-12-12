@@ -4,7 +4,7 @@ title: Tools "AI Static Code Analysis" yang berguna untuk menganalisa Codingan K
 categories:
 - blog
 tags:
-- AI Coding Assistants
+- AI Coding Analysis
 layout: single
 
 header:
@@ -19,7 +19,7 @@ excerpt: AI Static Code Analysis adalah sebuah teknologi Artificial Intelligence
 
 ## **Introduction of AI Static Code Anaylysis**
 
-AI Static Code Anaylysis adalah sebuah teknologi Artificial Intelligence yang digunakan untuk menganalisa source code seperti Vulnerabilities, Bugs, Code Smells, Security Hotspots, dll.
+AI Static Code Analysis adalah sebuah teknologi Artificial Intelligence yang digunakan untuk menganalisa source code seperti Vulnerabilities, Bugs, Code Smells, Security Hotspots, dll.
 
 Pada artikel ini saya akan membahas beberapa tools yang dapat membantu dalam menganalisa source code kamu selain itu juga tools ini harus mampu melakukan Autofix jika terdapat suggestion.
 
