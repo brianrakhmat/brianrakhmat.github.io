@@ -3,7 +3,13 @@ title: Product Device Farm yang support On Premise
 # date: 2017-09-12 13:50:39 +0000
 categories:
 - blog
-# tags:
+tags:
+- Device Farm
+- Headspin
+- Visium Farm
+- Kobiton
+- Zebrunner
+- OpenSTF
 # - GNOME
 # - Linux
 layout: single
@@ -27,18 +33,18 @@ Maka daripada itu banyak perusahaan yang menawarkan layanan solusi Device Farm, 
 
 ## **Beberapa Perusahaan Device Farm yang support On-Premise**
 
-1. Kobiton (https://kobiton.com/)
-2. Headspin (https://www.headspin.io/)
-3. Visium Farm (https://www.visiumlabs.com/visium-farm)
-4. Zebrunner (https://zebrunner.com/)
-5. OpenSTF (Opensource hanya support Android) (https://github.com/DeviceFarmer/stf)
+1. Kobiton (https://kobiton.com/) 
+2. Headspin (https://www.headspin.io/) (Read on: https://brii.my.id/device-farm-headspin)
+3. Visium Farm (https://www.visiumlabs.com/visium-farm) (Read on: https://brii.my.id/device-farm-visium-farm)
+4. Zebrunner (https://zebrunner.com/) (Read on: https://brii.my.id/device-farm-zebrunner)
+5. OpenSTF (Opensource hanya support Android) (Read on: https://brii.my.id/device-farm-openstf)
 
 Dari beberapa product diatas, tentu memiliki fitur dan harga yang berbeda-beda, tapi setidaknya ada beberapa hal yang mungkin bisa dijadikan pertimbangan dalam memilih product Device Farm.
 
 1. Harga, beberapa perusahaan diatas ada yang menawarkan skema license dengan model per-device, per-session access, dan atau bahkan ada yang hanya perlu membayar support maintenance nya saja.
-2. Capabilites, perlu dipertimbankan juga masalah capabilitas apakah Device Farmer tersebut support iOS atau hanya Android saja, atau bisa capture record atau screenshot metrics-metrics lainnya.
+2. Capabilites, perlu dipertimbankan juga masalah capabilities apakah Device Farmer tersebut support iOS atau hanya Android saja, atau bisa capture record atau screenshot metrics-metrics lainnya.
 3. Support, perlu dipertimbangkan juga masalah supportnya apakah Device Farmer support on-premise atau hanya on-cloud.
-4. Fitur, pertimbangkan juga fitur apa saja yang di inginkan dalam perusahaan.
+4. Fitur, pertimbangkan juga fitur apa saja yang diinginkan dalam perusahaan.
 
 Mungkin itu dulu pembahasan kali ini, Keep connected!
 
