@@ -102,65 +102,67 @@
                         </div>
                         <br>
                        <!-- Add this script tag in your HTML file -->
-<script>
-    // Function to fetch and display XML data
-    async function loadXML() {
-        try {
-            // Fetch XML file
-            const response = await fetch('https://brianrakhmataji.id/blog/feed.xml');
-            const xmlText = await response.text();
+                       <div id="content"></div>
 
-            // Parse XML text to XML document
-            const parser = new DOMParser();
-            const xmlDoc = parser.parseFromString(xmlText, 'application/xml');
-
-            // Limit the number of articles to 10
-            let articleCount = 0;
-
-            // Create a container div
-            const container = document.createElement('div');
-
-            // Loop through each entry
-            xmlDoc.querySelectorAll('entry').forEach((entry) => {
-                // Get Title, Summary, and Link
-                const title = entry.querySelector('title').textContent;
-                const summary = entry.querySelector('summary').textContent;
-                const link = entry.querySelector('link').getAttribute('href');
-
-                // Create HTML elements
-                const titleElement = document.createElement('h2');
-                titleElement.innerHTML = `<b><a class="summary" href="${link}" target="_blank">${title}</a></b>`;
-
-                const summaryElement = document.createElement('p');
-                summaryElement.className = 'summary';
-                summaryElement.innerHTML = `${summary} <br><br><b><a href="${link}" target="_blank">Read More</a></b>`;
-
-                const hrElement = document.createElement('hr');
-
-                // Append elements to container
-                container.appendChild(titleElement);
-                container.appendChild(summaryElement);
-                container.appendChild(hrElement);
-
-                // Increment article count
-                articleCount++;
-
-                // Break the loop after 10 articles
-                if (articleCount >= 10) {
-                    return;
-                }
-            });
-
-            // Append the container to the body
-            document.body.appendChild(container);
-        } catch (error) {
-            console.error('Error loading XML:', error);
-        }
-    }
-
-    // Call the function to load XML data
-    loadXML();
-</script>
+                       <script>
+                           // Function to fetch and display XML data
+                           async function loadXML() {
+                               try {
+                                   // Fetch XML file
+                                   const response = await fetch('https://blog.brianrakhmataji.id/feed.xml');
+                                   const xmlText = await response.text();
+                   
+                                   // Parse XML text to XML document
+                                   const parser = new DOMParser();
+                                   const xmlDoc = parser.parseFromString(xmlText, 'application/xml');
+                   
+                                   // Limit the number of articles to 10
+                                   let articleCount = 0;
+                   
+                                   // Create a container div
+                                   const container = document.createElement('div');
+                   
+                                   // Loop through each entry
+                                   xmlDoc.querySelectorAll('entry').forEach((entry) => {
+                                       // Get Title, Summary, and Link
+                                       const title = entry.querySelector('title').textContent;
+                                       const summary = entry.querySelector('summary').textContent;
+                                       const link = entry.querySelector('link').getAttribute('href');
+                   
+                                       // Create HTML elements
+                                       const titleElement = document.createElement('h2');
+                                       titleElement.innerHTML = `<b><a class="summary" href="${link}" target="_blank">${title}</a></b>`;
+                   
+                                       const summaryElement = document.createElement('p');
+                                       summaryElement.className = 'summary';
+                                       summaryElement.innerHTML = `${summary} <br><br><b><a href="${link}" target="_blank">Read More</a></b>`;
+                   
+                                       const hrElement = document.createElement('hr');
+                   
+                                       // Append elements to container
+                                       container.appendChild(titleElement);
+                                       container.appendChild(summaryElement);
+                                       container.appendChild(hrElement);
+                   
+                                       // Increment article count
+                                       articleCount++;
+                   
+                                       // Break the loop after 10 articles
+                                       if (articleCount >= 10) {
+                                           return;
+                                       }
+                                   });
+                   
+                                   // Append the container to the content div
+                                   document.getElementById('content').appendChild(container);
+                               } catch (error) {
+                                   console.error('Error loading XML:', error);
+                               }
+                           }
+                   
+                           // Call the function to load XML data
+                           loadXML();
+                       </script>
 
 
                         <br>
