@@ -2,28 +2,86 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Savio Atharrumi Aji</title>
+    <meta name="robots" content="noindex, nofollow">
+     <!-- Bootstrap CSS -->
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
     <style>
         body {
             margin: 0;
             padding: 0;
-            background-image: url('https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702789573/mjgbqsn61ak9gtgv2izu.jpg');
+            background-image: url('https://res.cloudinary.com/brianrakhmataji-id/image/upload/v1702789573/hw9ezcqxqqd8yl4dgokz.jpg');
             background-size: cover;
             background-position: center;
             height: 100vh;
             display: flex;
+            flex-direction: column;
             align-items: center;
             justify-content: center;
+            position: relative;
         }
 
-        /* You can add additional styling for your content here */
-        h1 {
+        /* Floating button styling */
+        .floating-button {
+            position: absolute;
+            bottom: 180px; /* Adjust the distance from the bottom as needed */
+            left: 50%;
+            background-color: #B56923;
             color: white;
-            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+            padding: 10px 20px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            transform: translateX(-50%);
+        }
+        /* You can add additional styling for your content here */
+         /* Tambahkan gaya tambahan di sini */
+
+        h1 {
+            font-size: 36px;
+        }
+
+        p {
+            font-size: 18px;
         }
     </style>
-    <title>Savio Atharrumi Aji</title>
-    <meta name="robots" content="noindex, nofollow">
 </head>
-<body></body>
+<body>
+    <div>
+        <button class="floating-button" data-toggle="modal" data-target="#myModal">Send Baby Gift 🎁 </button>
+    </div>
+
+    <!-- Bootstrap JS (Popper.js and Bootstrap JS) -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Send Baby Gift</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bank_Mandiri_logo_2016.svg/2560px-Bank_Mandiri_logo_2016.svg.png" class="img-fluid">
+                    <p>Bank Mandiri<br>
+                    0700009874152<br>
+                    a.n. Brian Rakhmat Aji
+                    </p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <!-- Add additional buttons if needed -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
 </html>
